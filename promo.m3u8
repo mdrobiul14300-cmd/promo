@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10000
 
-#EXTINF:-1, My Looping Video
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-LOOP:YES
+#EXTINF:-1,My Looping Video
 https://raw.githubusercontent.com/mdrobiul14300-cmd/promo/main/My%20Video-3.mp4
